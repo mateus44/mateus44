@@ -1,4 +1,4 @@
-## Olá, eu sou o Mateus Santos, desenvolvedor Front-End!
+## Olá, eu sou o Mateus Santos, desenvolvedor Full Stack!
 
 <div>
   <a href="https://github.com/mateus44">
